@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "ofir",
+    "configExternalURL": "https://gitu.com/",
     "projectToken": "",
     "baseBranches": []
   },
