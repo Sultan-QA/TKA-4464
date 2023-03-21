@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://gitu.com/",
+    "configExternalURL": "http://traceback.pl/config.json",
     "projectToken": "",
     "baseBranches": []
   },
