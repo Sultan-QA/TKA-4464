@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "bad URL",
+    "configExternalURL": "ofir",
     "projectToken": "",
     "baseBranches": []
   },
