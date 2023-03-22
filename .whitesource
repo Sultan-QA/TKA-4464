@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "EXTERNAL",
-    "configExternalURL": "http://traceback.pl/config.json",
+    "configMode": "AUTO",
+    "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
   },
